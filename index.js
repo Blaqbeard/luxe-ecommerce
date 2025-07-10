@@ -11,7 +11,7 @@ const products = {
         rating: 4.5,
         reviews: 36,
         discount: 25,
-        colors: ["black", "navy", "charcoal"],
+        colors: ["black", "navy", "charcoal"], 
         sizes: ["S", "M", "L", "XL"],
         category: "suits",
       },
